@@ -1,0 +1,4 @@
+hola mundo desde archivo
+
+esta es otra linea
+Hola mundo desde write en el with
